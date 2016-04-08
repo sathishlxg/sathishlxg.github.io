@@ -1,2 +1,2 @@
 # sathishlxg.github.io
-Angular Admin dashboard
+Admin dashboard UI concept
